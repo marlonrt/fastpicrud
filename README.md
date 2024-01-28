@@ -14,7 +14,6 @@ Before you begin, make sure you have the following installed:
 
 1. Clone the repository:
 2. Create and activate a virtual environment (venv):
-3. Activate it.
 
 ## Running
 uvicorn movies:app --reload
